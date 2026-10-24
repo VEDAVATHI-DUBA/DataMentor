@@ -1,0 +1,18 @@
+# API credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Private study materials
+/Knowledge/
+/knowledge_base.pkl
+
+# Backup files
+/web_app_backup.py

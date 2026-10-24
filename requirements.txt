@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+scikit-learn
+google-genai
+numpy
+torch
+torchvision
+pypdf
